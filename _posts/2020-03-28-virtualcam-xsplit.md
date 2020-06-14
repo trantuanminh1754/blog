@@ -20,7 +20,7 @@ Hiện giờ đang là mùa dịch, người người ở nhà không dám ra ng
 
 **Phần 1. Tải phần mềm XSplit Broadcaster và cài đặt:**
 
-Bạn truy cập vào trang web [https://www.xsplit.com/broadcaster/thank-you](https://www.xsplit.com/broadcaster/thank-you) để tải file cài đặt phần mềm xuống và cài đặt như 1 phần mềm bình thường.
+Bạn truy cập vào trang web [https://www.xsplit.com/broadcaster/thank-you](https://www.xsplit.com/broadcaster/thank-you "https://www.xsplit.com/broadcaster/thank-you") để tải file cài đặt phần mềm xuống và cài đặt như 1 phần mềm bình thường.
 
 Sau khi bạn cài đặt xong, mở phần mềm lên. Bạn sẽ được yêu cầu đăng nhập bằng tài khoản mạng xã hội. Bạn có thể sử dụng tài khoản Google hoặc Facebook hoặc bất cứ tài khoản nào bạn thích.
 
