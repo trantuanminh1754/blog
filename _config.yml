@@ -1,7 +1,7 @@
 # Site
 name: "Tran Tuan Minh"
 title: "Tran Tuan Minh"
-description: "Just another privacy blog."
+description: "Just another online stranger."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
@@ -10,15 +10,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Minh Tran
-    display_name: Minh Tran
-    avatar: 'assets/images/avatar.png'
-    email: trantminh1754@protonmail.com
-    web: https://trantuanminh.com/
-    twitter: https://instagram.com/cuham_1754
-    description: ""
-  john:
+  minh:
     name: Minh Tran
     display_name: Minh Tran
     avatar: 'assets/images/avatar.png'
