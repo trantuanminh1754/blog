@@ -6,8 +6,7 @@ title: >-
   khi gọi video call, học trực tuyến
 author: minh
 categories:
-  - Jekyll
-  - tutorial
+  - Tricks
 image: assets/images/virtualcam-xsplit/9.png
 description: >-
   Hiện giờ đang là mùa dịch, người người ở nhà không dám ra ngoài. Nhưng học tập
