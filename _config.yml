@@ -10,24 +10,22 @@ permalink: /:title/
 
 # Authors
 authors:
-  minh:
+  sal:
     name: Minh Tran
     display_name: Minh Tran
     avatar: 'assets/images/avatar.png'
     email: trantminh1754@protonmail.com
     web: https://trantuanminh.com/
     twitter: https://instagram.com/cuham_1754
-    description: "                                                                                                    Just another privacy blogger."
+    description: ""
   john:
-    name: John
-    display_name: John    
+    name: Minh Tran
+    display_name: Minh Tran
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
+    email: trantminh1754@protonmail.com
+    web: https://trantuanminh.com/
+    twitter: https://instagram.com/cuham_1754
+    description: ""
 # Plugins
 plugins:
   - jekyll-paginate
