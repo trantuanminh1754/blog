@@ -134,7 +134,9 @@ post_class: post-template
 {% if page.comments != false %}
     <div class="container">
         <div id="comments" class="row justify-content-center mb-5">
-        <script async src="https://comments.app/js/widget.js?2" data-comments-app-website="AstDcFVw" data-limit="5"></script>
+            <div class="col-md-8">
+                {% include disqus.html %}
+            </div>
         </div>
     </div>
 {% endif %}
