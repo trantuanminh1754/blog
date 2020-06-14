@@ -43,6 +43,7 @@ Bước 2: Ở cửa sổ bật lên, chọn Media file (videos, images)…:
 Bước 3: Tìm đến file ảnh hoặc video để thay thế webcam:
 
 ![]({{site.baseurl}}/assets/images/virtualcam-xsplit/4.png)
+
 Nhấn “Open” sau khi chọn xong ảnh nha!
 
 Bước 4: Căn chỉnh ảnh, video sao cho file năm ở giữa khung đen và kích cỡ lớn nhất có thể:
@@ -51,14 +52,14 @@ Bước 4: Căn chỉnh ảnh, video sao cho file năm ở giữa khung đen và
 
 Bước 5 (Có thể bỏ qua nếu ở bước trên bạn chọn file ảnh): Chỉnh cho video lặp lại từ đầu sau khi chạy đến cuối
 
-	Bước 5.1: Chuột phải vào đường dẫn của file video ở dưới khung đen:
+-Bước 5.1: Chuột phải vào đường dẫn của file video ở dưới khung đen:
     
 ![]({{site.baseurl}}/assets/images/virtualcam-xsplit/6.png)
 
-	Bước 5.2: Chỉnh 1 số cài đặt như sau:
-		-Ấn nút Play nếu video không chạy
-		-Ấn nút loa để tắt tiếng video
-		-Ấn nút “Once” và chọn “Forever” để video lặp lại sau khi chạy đến hết
+-Bước 5.2: Chỉnh 1 số cài đặt như sau:
+	-Ấn nút Play nếu video không chạy
+	-Ấn nút loa để tắt tiếng video
+	-Ấn nút “Once” và chọn “Forever” để video lặp lại sau khi chạy đến hết
         
 ![]({{site.baseurl}}/assets/images/virtualcam-xsplit/7.png)
 
@@ -66,11 +67,11 @@ Bước 6: Chuyển nguồn webcam thành XSplitBroadcaster:
 
 Ở đây mình sẽ hướng dẫn trên phần mềm Zoom, các phần mềm khác bạn làm tương tự, hoạt động với tất cả các phần mềm:
 
-	Bước 6.1: Vào phần cài đặt (Settings, thường có biểu tượng hình bánh răng) của phần mềm video call:
+-Bước 6.1: Vào phần cài đặt (Settings, thường có biểu tượng hình bánh răng) của phần mềm video call:
 
 ![]({{site.baseurl}}/assets/images/virtualcam-xsplit/8.png)
 
-	Bước 6.2: Bạn vào phần cài đặt video của phần mềm, và chỉnh nguồn camera sang XSplitBroadcaster, và bạn sẽ thấy hình ảnh đầu ra là hình ảnh bạn chọn thay vì webcam! Nếu bạn không thấy tuỳ chọn này, hãy thử khởi động lại máy tính và phần mềm XSplit.
+-Bước 6.2: Bạn vào phần cài đặt video của phần mềm, và chỉnh nguồn camera sang XSplitBroadcaster, và bạn sẽ thấy hình ảnh đầu ra là hình ảnh bạn chọn thay vì webcam! Nếu bạn không thấy tuỳ chọn này, hãy thử khởi động lại máy tính và phần mềm XSplit.
 
 ![]({{site.baseurl}}/assets/images/virtualcam-xsplit/9.png)
 
