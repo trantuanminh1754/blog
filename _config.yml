@@ -13,13 +13,11 @@ authors:
   minh:
     name: Minh Tran
     display_name: Minh Tran
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/avatar.png'
     email: trantminh1754@protonmail.com
     web: https://trantuanminh.com/
-    twitter: https://twitter.com/cuham_1754
-    description: "
-    
-    Just aanother privacy blogger."
+    twitter: https://instagram.com/cuham_1754
+    description: "                                                                                                    Just another privacy blogger."
   john:
     name: John
     display_name: John    
