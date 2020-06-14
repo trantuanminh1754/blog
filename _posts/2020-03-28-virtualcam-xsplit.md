@@ -44,7 +44,7 @@ Bước 3: Tìm đến file ảnh hoặc video để thay thế webcam:
 
 ![]({{site.baseurl}}/assets/images/virtualcam-xsplit/4.png)
 
-Nhấn “Open” sau khi chọn xong ảnh nha!
+* Nhấn “Open” sau khi chọn xong ảnh nha!
 
 Bước 4: Căn chỉnh ảnh, video sao cho file năm ở giữa khung đen và kích cỡ lớn nhất có thể:
 
@@ -57,9 +57,12 @@ Bước 5 (Có thể bỏ qua nếu ở bước trên bạn chọn file ảnh): 
 ![]({{site.baseurl}}/assets/images/virtualcam-xsplit/6.png)
 
 -Bước 5.2: Chỉnh 1 số cài đặt như sau:
-	-Ấn nút Play nếu video không chạy
-	-Ấn nút loa để tắt tiếng video
-	-Ấn nút “Once” và chọn “Forever” để video lặp lại sau khi chạy đến hết
+	
+   -Ấn nút Play nếu video không chạy
+	
+   -Ấn nút loa để tắt tiếng video
+	
+   -Ấn nút “Once” và chọn “Forever” để video lặp lại sau khi chạy đến hết
         
 ![]({{site.baseurl}}/assets/images/virtualcam-xsplit/7.png)
 
