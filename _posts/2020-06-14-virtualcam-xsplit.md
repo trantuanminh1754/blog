@@ -1,5 +1,18 @@
 ---
-published: false
+published: true
+layout: post
+title: >-
+  Sử dụng phần mềm XSplit Broadcaster để giả lập webcam máy tính bằng ảnh/video
+  khi gọi video call, học trực tuyến
+author: minh
+categories:
+  - Jekyll
+  - tutorial
+image: assets/images/virtualcam-xsplit/9.png
+description: >-
+  Hiện giờ đang là mùa dịch, người người ở nhà không dám ra ngoài. Nhưng học tập
+  và làm việc không thể bị đình trệ chỉ vì dịch! Vì thế mà nhiều công ty, trường
+  học đã áp dụng những hình thức làm việc tại nhà, hay học trực tuyến.
 ---
 Hiện giờ đang là mùa dịch, người người ở nhà không dám ra ngoài. Nhưng học tập và làm việc không thể bị đình trệ chỉ vì dịch! Vì thế mà nhiều công ty, trường học đã áp dụng những hình thức làm việc tại nhà, hay học trực tuyến. Một trong những điểm yếu của học trực tuyến đó là việc chỉ được nhìn nhau qua màn hình máy tính sẽ phần nào chán nản hơn là được gặp nhau trực tiếp ngoài đời. Vì vậy hôm nay mình xin chia sẻ 1 ứng dụng có thể giả lập tín hiệu webcam máy tính bằng ảnh hoặc video đó là XSplit Broadcaster, một phần mềm đã rất phổ biến cho các streamer. Không dài dòng nữa, vào hướng dẫn thôi!
 
