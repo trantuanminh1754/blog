@@ -4,7 +4,7 @@ title: Fanblog mới của mình - NTVP Moments
 layout: post
 author: minh
 categories:
-  - About
+  - Blog
 image: 'https://media.giphy.com/media/frFxb5y5zmAGeBiFTo/giphy.gif'
 description: >-
   Blog này được lập ra với mục đích chủ yếu là tập hợp các ảnh GIF về những
@@ -32,3 +32,5 @@ Kênh có nhiều video được đầu tư rất nhiều chất xám, như seri
 Vì kênh ban đầu lập ra với ý tưởng là đời sống của những thành viên trong văn phòng, nên cho dù kênh đã chuyển hướng sang làm nội dung giải trí, nhưng vẫn cho người xem một cảm giác hết sức tự nhiên trong những lời nói, cử chỉ, hành động chứ không bị cứng nhắc, theo một mẫu kịch bản như các kênh giải trí khác.
 
 Mong rằng kênh sẽ ngày càng phát triển trong thời gian tới!
+
+Kênh YouTube NTVP: [https://www.youtube.com/c/nguoitrongvanphong/](https://www.youtube.com/c/nguoitrongvanphong/ "https://www.youtube.com/c/nguoitrongvanphong/")
